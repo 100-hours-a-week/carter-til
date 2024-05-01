@@ -2,6 +2,8 @@
 
 ### [4월 넷째주, 3주차] : ES6
 
+24.05.01 ES6 문법으로 리팩토링 ([상세 내역 링크](https://github.com/100-hours-a-week/carter-til/blob/main/May/2024-05-01))
+
 24.04.30 async,await 사용, URL 가다듬기 ([상세 내역 링크](https://github.com/100-hours-a-week/carter-til/blob/main/Apr/2024-04-30))
 
 24.04.29 FormData, 쿠키, 세션, 토큰, oauth, cors 등의 개념 ([상세 내역 링크](https://github.com/100-hours-a-week/carter-til/blob/main/Apr/2024-04-29))
