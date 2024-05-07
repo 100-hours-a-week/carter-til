@@ -2,6 +2,8 @@
 
 ### [5월 첫째주, 4주차] : React 초급 1
 
+24.05.07 css모듈화, 컴포넌트 props ([상세 내역 링크](https://github.com/100-hours-a-week/carter-til/blob/main/May/2024-05-07.md))
+
 24.05.03 DOM과 virtual DOM의 이해와 장단점 ([상세 내역 링크](https://github.com/100-hours-a-week/carter-til/blob/main/May/2024-05-03.md))
 
 24.05.02 JS응용, React기초 ([상세 내역 링크](https://github.com/100-hours-a-week/carter-til/blob/main/May/2024-05-02))
