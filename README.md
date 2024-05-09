@@ -1,6 +1,8 @@
 ## 오늘 내가 배운 것들(Today I Learned)
 
 ### [4주차] : React 초급 1
+24.05.09 CORS, wireshark ([상세 내역 링크](https://github.com/100-hours-a-week/carter-til/blob/main/May/2024-05-09.md))
+
 24.05.08 훅, 커스텀 훅, 고차 컴포넌트, Redux ([상세 내역 링크](https://github.com/100-hours-a-week/carter-til/blob/main/May/2024-05-08.md))
 
 24.05.07 css모듈화, 컴포넌트 props ([상세 내역 링크](https://github.com/100-hours-a-week/carter-til/blob/main/May/2024-05-07.md))
