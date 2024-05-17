@@ -1,6 +1,8 @@
 ## 오늘 내가 배운 것들(Today I Learned)
 
 ### [6주차] : 자바 기본 1
+24.05.17 클래스 설계, 자바 클래스,인스턴스 변수 초기화 순서 ([상세 내역 링크](https://github.com/100-hours-a-week/carter-til/blob/main/May/2024-05-17.md))
+
 24.05.16 자바 기본 개념, 클래스 실습 ([상세 내역 링크](https://github.com/100-hours-a-week/carter-til/blob/main/May/2024-05-16.md))
 
 ### [5주차] : React 초급 2
