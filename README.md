@@ -1,5 +1,8 @@
 ## 오늘 내가 배운 것들(Today I Learned)
 
+### [7주차] : 자바 기본 2
+24.05.22 collection, 예외처리, interface, 의존성 주입 ([상세 내역 링크](https://github.com/100-hours-a-week/carter-til/blob/main/May/2024-05-22.md))
+
 ### [6주차] : 자바 기본 1
 24.05.17 클래스 설계, 자바 클래스,인스턴스 변수 초기화 순서 ([상세 내역 링크](https://github.com/100-hours-a-week/carter-til/blob/main/May/2024-05-17.md))
 
