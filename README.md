@@ -1,6 +1,8 @@
 ## 오늘 내가 배운 것들(Today I Learned)
 
 ### [7주차] : 자바 기본 2
+24.05.23 thread & runnable, race condition ([상세 내역 링크](https://github.com/100-hours-a-week/carter-til/blob/main/May/2024-05-23.md))
+
 24.05.22 collection, 예외처리, interface, 의존성 주입 ([상세 내역 링크](https://github.com/100-hours-a-week/carter-til/blob/main/May/2024-05-22.md))
 
 ### [6주차] : 자바 기본 1
