@@ -1,6 +1,8 @@
 ## 오늘 내가 배운 것들(Today I Learned)
 
 ### [7주차] : 자바 기본 2
+24.05.28 VO클래스, 레코드 클래스 ([상세 내역 링크](https://github.com/100-hours-a-week/carter-til/blob/main/May/2024-05-28.md))
+
 24.05.25 스레드의 장단점, 생명주기, 교착상태 ([상세 내역 링크](https://github.com/100-hours-a-week/carter-til/blob/main/May/2024-05-25.md))
 
 24.05.23 thread & runnable, race condition ([상세 내역 링크](https://github.com/100-hours-a-week/carter-til/blob/main/May/2024-05-23.md))
