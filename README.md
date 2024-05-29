@@ -1,5 +1,8 @@
 ## 오늘 내가 배운 것들(Today I Learned)
 
+### [8주차] : DB 기본
+24.05.29 데몬,스키마,기본키,외래키 ([상세 내역 링크](https://github.com/100-hours-a-week/carter-til/blob/main/May/2024-05-29.md))
+
 ### [7주차] : 자바 기본 2
 24.05.28 VO클래스, 레코드 클래스 ([상세 내역 링크](https://github.com/100-hours-a-week/carter-til/blob/main/May/2024-05-28.md))
 
