@@ -1,5 +1,8 @@
 ## 오늘 내가 배운 것들(Today I Learned)
 
+### [10주차] : Spring Boot
+24.06.12 빈 생명주기, 빈 생명주기 콜백, 빈 스코프, JPA ([상세 내역 링크](https://github.com/100-hours-a-week/carter-til/blob/main/Jun/2024-06-12.md))
+
 ### [8주차] : DB 기본
 24.05.31 트랜잭션 특성(ACID) ([상세 내역 링크](https://github.com/100-hours-a-week/carter-til/blob/main/May/2024-05-31.md))
 
