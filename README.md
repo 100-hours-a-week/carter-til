@@ -1,5 +1,8 @@
 ## 오늘 내가 배운 것들(Today I Learned)
 
+### [11주차] : Spring Boot
+24.06.21 자바프로젝트에서 gradle 의 역할과 각 파일에 대한 역할 설명 ([상세 내역 링크](https://github.com/100-hours-a-week/carter-til/blob/main/Jun/2024-06-21.md))
+
 ### [10주차] : Spring Boot
 24.06.14 팩토리 메서드 패턴 ([상세 내역 링크](https://github.com/100-hours-a-week/carter-til/blob/main/Jun/2024-06-14.md))
 
