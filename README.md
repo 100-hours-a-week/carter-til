@@ -1,6 +1,8 @@
 ## 오늘 내가 배운 것들(Today I Learned)
 
 ### [11주차] : Spring Boot
+24.06.23 스프링부트 로그인, JWT ([상세 내역 링크](https://github.com/100-hours-a-week/carter-til/blob/main/Jun/2024-06-23.md))
+
 24.06.22 스프링부트 코드 학습 ([상세 내역 링크](https://github.com/100-hours-a-week/carter-til/blob/main/Jun/2024-06-22.md))
 
 24.06.21 자바프로젝트에서 gradle 의 역할과 각 파일에 대한 역할 설명 ([상세 내역 링크](https://github.com/100-hours-a-week/carter-til/blob/main/Jun/2024-06-21.md))
