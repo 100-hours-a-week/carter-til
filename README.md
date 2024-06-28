@@ -1,6 +1,8 @@
 ## 오늘 내가 배운 것들(Today I Learned)
 
 ### [12주차] : 서버 배포 1
+24.06.28 스프링부트 403 forbidden 시행착오, docker, docker compose ([상세 내역 링크](https://github.com/100-hours-a-week/carter-til/blob/main/Jun/2024-06-28.md))
+
 24.06.26 리눅스, ResponseEntity, SecurityFilterChain ([상세 내역 링크](https://github.com/100-hours-a-week/carter-til/blob/main/Jun/2024-06-26.md))
 
 ### [11주차] : Spring Boot
