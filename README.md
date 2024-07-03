@@ -1,4 +1,6 @@
 ## 오늘 내가 배운 것들(Today I Learned)
+### [13주차] : 서버 배포 2
+24.07.03 자바스크립트, 도커 명령어 ([상세 내역 링크](https://github.com/100-hours-a-week/carter-til/blob/main/Jul/2024-07-03.md))
 
 ### [12주차] : 서버 배포 1
 24.06.28 스프링부트 403 forbidden 시행착오, docker, docker compose ([상세 내역 링크](https://github.com/100-hours-a-week/carter-til/blob/main/Jun/2024-06-28.md))
