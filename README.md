@@ -1,5 +1,7 @@
 ## 오늘 내가 배운 것들(Today I Learned)
 ### [13주차] : 서버 배포 2
+24.07.05 데이터베이스 스키마 변경 무중단 배포, MySQL binlog, Postgresql pg_wal ([상세 내역 링크](https://github.com/100-hours-a-week/carter-til/blob/main/Jul/2024-07-05.md))
+
 24.07.03 자바스크립트, 도커 명령어 ([상세 내역 링크](https://github.com/100-hours-a-week/carter-til/blob/main/Jul/2024-07-03.md))
 
 ### [12주차] : 서버 배포 1
